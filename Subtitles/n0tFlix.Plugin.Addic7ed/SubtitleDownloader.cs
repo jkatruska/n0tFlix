@@ -66,7 +66,7 @@ namespace n0tFlix.Plugin.Addic7ed
         {
             var uri = "https://www.addic7ed.com/search.php?search=" +  HttpUtility.UrlEncode(request.SeriesName + " s" + request.ParentIndexNumber + "e" + request.IndexNumber ) + "&Submit=Search";
             this.logger?.LogError(uri);
-            string source = await downloader.GetString(uri, "https://www.addic7ed.com/",null,cancellationToken);
+            string source = await downloader.GetString(uri, "https://www.addic7ed.com/", null, cancellationToken);
             var conf = AngleSharp.Configuration.Default;
             var browser = AngleSharp.BrowsingContext.New(conf);
             IDocument document = await browser.OpenAsync(x => x.Content(source));

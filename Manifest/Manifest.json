@@ -1,7 +1,7 @@
 [
   
   {
-    "guid": "86e18da5-3591-44bb-a680-60092de84c0a",
+    "guid": "540e860d-7aa5-47f3-b0f8-d8b2b2ace78c",
     "name": "Addic7ed",
     "description": "Downloads subtitles from Addic7ed.com",
     "overview": "Downloads subtitles from Addic7ed.com",
@@ -14,7 +14,7 @@
         "changelog": "Check github for changelog",
         "targetAbi": "10.7.7.0",
         "sourceUrl": "https://raw.githubusercontent.com/jkatruska/n0tFlix/main/Build/n0tFlix.Plugin.Addic7ed.zip",
-        "checksum": "0FEEC6BBFF2BCF058D3CE4C65CF60ED2",
+        "checksum": "f8f587e26b615ffb81b9c42032b1af1e",
         "timestamp": "2022-2-11T11:45:41Z"
       }
     ]
