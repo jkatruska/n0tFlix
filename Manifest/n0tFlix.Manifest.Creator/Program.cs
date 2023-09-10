@@ -57,7 +57,7 @@ namespace n0tFlix.Manifest.Creator
 
         static void Main(string[] args)
         {
-            string rooturl = "https://raw.githubusercontent.com/n0tOdd/n0tFlix/main/Build/";// Console.ReadLine();
+            string rooturl = "https://raw.githubusercontent.com/jkatruska/n0tFlix/main/Build/";// Console.ReadLine();
             if(!rooturl.EndsWith("/"))
                 rooturl = rooturl + "/";
             List<Manifestdata> liste = new List<Manifestdata>();

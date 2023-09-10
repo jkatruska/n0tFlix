@@ -10,3 +10,15 @@ D:\n0tFlix\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugi
 D:\n0tFlix\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\ref\n0tFlix.Plugin.YoutubeDL.dll
 D:\n0tFlix\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.pdb
 D:\n0tFlix\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.csproj.AssemblyReference.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\bin\Release\net5.0\n0tFlix.Plugin.YoutubeDL.deps.json
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\bin\Release\net5.0\n0tFlix.Plugin.YoutubeDL.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\bin\Release\net5.0\n0tFlix.Plugin.YoutubeDL.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.csproj.AssemblyReference.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.AssemblyInfoInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.AssemblyInfo.cs
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.csproj.CoreCompileInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\refint\n0tFlix.Plugin.YoutubeDL.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\n0tFlix.Plugin.YoutubeDL.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\API\n0tFlix.Plugin.YoutubeDL\obj\Release\net5.0\ref\n0tFlix.Plugin.YoutubeDL.dll

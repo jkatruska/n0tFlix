@@ -11,12 +11,11 @@
         <dependency id="Jellyfin.Controller" version="10.7.7" exclude="Build,Analyzers" />
         <dependency id="Jellyfin.Data" version="10.7.7" exclude="Build,Analyzers" />
         <dependency id="Jellyfin.Model" version="10.7.7" exclude="Build,Analyzers" />
-        <dependency id="Jellyfin.Naming" version="10.7.7" exclude="Build,Analyzers" />
         <dependency id="Microsoft.Extensions.Http" version="5.0.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\n0tFlix\n0tFlix\n0tFlix.Helpers\bin\Release\net5.0\n0tFlix.Helpers.dll" target="lib\net5.0\n0tFlix.Helpers.dll" />
+    <file src="C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\bin\Release\net5.0\n0tFlix.Helpers.dll" target="lib\net5.0\n0tFlix.Helpers.dll" />
   </files>
 </package>

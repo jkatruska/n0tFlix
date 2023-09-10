@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\oddos\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\oddos\\.nuget\\packages"
+      "C:\\Users\\jkatr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jkatr\\.nuget\\packages"
     ]
   }
 }

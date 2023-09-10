@@ -94,12 +94,11 @@ namespace n0tFlix.Plugin.Addic7ed
                     {
                         Author = auth,
                         Id = id,
-                        ProviderName = "Adddic7ed",
+                        ProviderName = "Addic7ed",
                         Format = "srt",
                         ThreeLetterISOLanguageName = request.Language,
-
-                        Name = title + ' ' + name,
-                         
+                        Name = name,
+                        Comment = title,
                     });
                 }
                 catch(Exception ex)
