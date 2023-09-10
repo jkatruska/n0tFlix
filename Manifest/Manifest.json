@@ -7,13 +7,13 @@
     "overview": "Downloads subtitles from Addic7ed.com",
     "owner": "n0tme",
     "category": "n0tSubtitles",
-    "imageUrl": "https://raw.githubusercontent.com/n0tOdd/n0tFlix/main/Build/n0tFlix.Plugin.Addic7ed.png",
+    "imageUrl": "https://raw.githubusercontent.com/jkatruska/n0tFlix/main/Build/n0tFlix.Plugin.Addic7ed.png",
     "versions": [
       {
         "version": "1.0.0.0",
         "changelog": "Check github for changelog",
         "targetAbi": "10.7.7.0",
-        "sourceUrl": "https://raw.githubusercontent.com/n0tOdd/n0tFlix/main/Build/n0tFlix.Plugin.Addic7ed.zip",
+        "sourceUrl": "https://raw.githubusercontent.com/jkatruska/n0tFlix/main/Build/n0tFlix.Plugin.Addic7ed.zip",
         "checksum": "0FEEC6BBFF2BCF058D3CE4C65CF60ED2",
         "timestamp": "2022-2-11T11:45:41Z"
       }

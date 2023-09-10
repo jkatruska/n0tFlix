@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "43ycFRcqAvlB54yCyiZNq0azNvB7mkY8woIOJo5PfevaRjq3VI/fbSqHEOtLLtFEt2ZiHadsgHE9rlLHATfRyw==",
+  "dgSpecHash": "XQhawngcaW6JVJDisOGHK6wJ+ISm/4Qyq7II8VVoxjLrkURAZ9U3sBSFSgnyr3+f9zY/V1xw9aK/QPMm+Lvckw==",
   "success": true,
-  "projectFilePath": "D:\\n0tFlix\\n0tFlix\\nrk serializer\\nrk serializer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\nrk serializer\\nrk serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

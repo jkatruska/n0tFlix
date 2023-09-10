@@ -24,3 +24,17 @@ D:\n0tFlix\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.dll
 D:\n0tFlix\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\ref\n0tYoutubeDL.dll
 D:\n0tFlix\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.xml
 D:\n0tFlix\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.xml
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\bin\Debug\net5.0\n0tYoutubeDL.deps.json
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\bin\Debug\net5.0\n0tYoutubeDL.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\bin\Debug\net5.0\n0tYoutubeDL.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\bin\Debug\net5.0\n0tYoutubeDL.xml
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.csproj.AssemblyReference.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.AssemblyInfoInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.AssemblyInfo.cs
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\n0tYoutubeDL.csproj.CoreCompileInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\refint\n0tYoutubeDL.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\Externals\n0tYoutubeDL\obj\Debug\net5.0\ref\n0tYoutubeDL.dll

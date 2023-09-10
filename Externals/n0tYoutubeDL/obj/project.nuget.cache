@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "179O6Bw7g3SrLgQI+rPM4wVXXlAVkQGUp0UT9U+S/dMQOVnlm30+sNdTNdxcHjvzF80S3QD2gNLGeTtT/zNnjA==",
+  "dgSpecHash": "9OTmgDBTayxmU2dwn+3FyVcexNLYa2lPDN68Aw3EPVTmLmXW3CVzDIbXj1AFxdcINQ2gOLalwAtEitClfUnOLA==",
   "success": true,
-  "projectFilePath": "D:\\n0tFlix\\n0tFlix\\Externals\\n0tYoutubeDL\\n0tYoutubeDL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\Externals\\n0tYoutubeDL\\n0tYoutubeDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jkatr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

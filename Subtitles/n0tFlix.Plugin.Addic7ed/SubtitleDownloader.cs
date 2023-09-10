@@ -1,19 +1,13 @@
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
-using System.Security.Authentication;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using n0tFlix.Plugin.Addic7ed.Configuration;
-using MediaBrowser.Common.Extensions;
 using MediaBrowser.Controller.Providers;
 using MediaBrowser.Controller.Subtitles;
-using MediaBrowser.Model.Entities;
 using MediaBrowser.Model.Providers;
 using Microsoft.Extensions.Logging;
 using AngleSharp.Dom;
@@ -104,7 +98,7 @@ namespace n0tFlix.Plugin.Addic7ed
                         Format = "srt",
                         ThreeLetterISOLanguageName = request.Language,
 
-                        Name = title,
+                        Name = title + ' ' + name,
                          
                     });
                 }

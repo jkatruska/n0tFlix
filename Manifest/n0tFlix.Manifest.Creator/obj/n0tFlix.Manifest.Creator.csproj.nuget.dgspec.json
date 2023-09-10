@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\n0tFlix\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj": {}
+    "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj": {}
   },
   "projects": {
-    "D:\\n0tFlix\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj": {
+    "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\n0tFlix\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj",
+        "projectUniqueName": "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj",
         "projectName": "n0tFlix.Manifest.Creator",
-        "projectPath": "D:\\n0tFlix\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj",
-        "packagesPath": "C:\\Users\\oddos\\.nuget\\packages\\",
-        "outputPath": "D:\\n0tFlix\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\obj\\",
+        "projectPath": "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\n0tFlix.Manifest.Creator.csproj",
+        "packagesPath": "C:\\Users\\jkatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jkatr\\RiderProjects\\n0tFlix\\Manifest\\n0tFlix.Manifest.Creator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oddos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jkatr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://f.feedz.io/autostep/ci/nuget/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -76,16 +73,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jkatr\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

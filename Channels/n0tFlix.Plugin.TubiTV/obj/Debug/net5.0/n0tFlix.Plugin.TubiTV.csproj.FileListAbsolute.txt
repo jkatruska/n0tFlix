@@ -13,3 +13,10 @@ D:\n0tFlix\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugi
 D:\n0tFlix\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.dll
 D:\n0tFlix\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\ref\n0tFlix.Plugin.TubiTV.dll
 D:\n0tFlix\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.csproj.AssemblyReference.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.AssemblyInfoInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.AssemblyInfo.cs
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.csproj.CoreCompileInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\Channels\n0tFlix.Plugin.TubiTV\obj\Debug\net5.0\n0tFlix.Plugin.TubiTV.pdb

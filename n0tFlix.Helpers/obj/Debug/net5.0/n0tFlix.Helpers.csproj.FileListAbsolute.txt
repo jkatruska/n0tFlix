@@ -10,3 +10,15 @@ D:\n0tFlix\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.dll
 D:\n0tFlix\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\ref\n0tFlix.Helpers.dll
 D:\n0tFlix\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.pdb
 D:\n0tFlix\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.csproj.AssemblyReference.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\bin\Debug\net5.0\n0tFlix.Helpers.deps.json
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\bin\Debug\net5.0\n0tFlix.Helpers.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\bin\Debug\net5.0\n0tFlix.Helpers.pdb
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.csproj.AssemblyReference.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.AssemblyInfoInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.AssemblyInfo.cs
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\n0tFlix.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\refint\n0tFlix.Helpers.dll
+C:\Users\jkatr\RiderProjects\n0tFlix\n0tFlix.Helpers\obj\Debug\net5.0\ref\n0tFlix.Helpers.dll
